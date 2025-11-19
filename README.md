@@ -27,4 +27,4 @@ AdaptVec: **1024 → 45-100 dims (per word)**
  system.kelime_ekle('word', senses, optimal, critical)
  result = system.tahmin_yap('word', context_vector)
  ```
- ## Performance- **12x faster** inference- **92% smaller** models- **<0.5% accuracy** los
+ ## Performance- **12x faster** inference- **85% smaller** models- **<0.5% accuracy** los
